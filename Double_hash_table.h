@@ -1,7 +1,5 @@
 /*****************************************
- * UW User ID:  uwuserid
- * Submitted for ECE 250
- * Semester of Submission:  (Winter|Spring|Fall) 20NN
+ * UW User ID:  s24dhali
  *
  * By submitting this file, I affirm that
  * I am the author of all modifications to
