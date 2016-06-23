@@ -1,5 +1,4 @@
 /****************************************************
- *
  * Create an instance of the Double_hash_table_tester class
  * and call the member function run().
  *
